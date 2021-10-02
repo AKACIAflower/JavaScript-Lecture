@@ -1,3 +1,3 @@
-# JavaScript-Lecture
+# JavaScript-Lecture Udemy
 
-## 1. Arrays-Bankist
+## 1. Array-method
